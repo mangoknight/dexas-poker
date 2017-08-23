@@ -23,7 +23,7 @@ var send = require('./model/send');
 var sqlcmd = require('./model/sqlcmd');
 
 
-//张宁
+
 var config = require('./model/config');
 var Card = require('./model/card');
 var cards = require('./model/card');
@@ -426,7 +426,7 @@ io.on('connection', function (socket) {
       io.emit(msg.name + 'genxin', data);
     })
   })
-  //张宁----------------------------------------------------------------------------------------------------
+  
   //fapai
   socket.on("pleaseDeal", function (data) {
 
@@ -769,9 +769,6 @@ io.on('connection', function (socket) {
     });
 
 
-    // redis.hset("asd","1","张宁");
-    // redis.hset("asd","2","龚亮");
-    // redis.hset("asd","3","韩庄");
 
   });
   //弃牌  
