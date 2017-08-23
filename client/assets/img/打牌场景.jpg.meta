@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "a38d1db3-f74c-422e-941f-65db51073623",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "打牌场景": {
+      "ver": "1.0.3",
+      "uuid": "e610547a-5034-4576-a51c-d871cc5b6312",
+      "rawTextureUuid": "a38d1db3-f74c-422e-941f-65db51073623",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1136,
+      "height": 640,
+      "rawWidth": 1136,
+      "rawHeight": 640,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
